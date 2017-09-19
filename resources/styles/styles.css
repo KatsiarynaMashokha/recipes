@@ -6,8 +6,13 @@
   padding: 10px;
   text-align:left;
   width: 50%;
+  background-color: lightblue;
 }
 
 li{
   margin-left: 20px;
+}
+
+.form-group{
+  display: none;
 }
